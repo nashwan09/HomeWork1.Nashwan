@@ -1,4 +1,4 @@
-package amazon;
+package amazonSelfPracticeFromClass;
 
 public class HomePage {
 
